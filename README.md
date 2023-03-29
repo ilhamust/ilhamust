@@ -7,10 +7,9 @@
   <strong><a href="https://www.linkedin.com/in/">LinkedIn</a></strong> |
 </p>
 
-<p aligen="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamust&show_icons=true&theme=transparent)
+<p align="center">
+  <a href="https://github.com/ilhamust"><img src="https://github-readme-stats.vercel.app/api?username=ilhamust&show_icons=true&hide_border=true&theme=transparent" alt="edisonlee55's github stats"></a>
 </p>
-
 
 <p>Saya merupakan Pelajar di SMK Negeri 2 Klaten dengan Jurusan Sistem Informasi dan Aplikasi, yang sedang memulai untuk belajar terkait Coding.
 Terimakasih sudah berkunjung, akun github ini saya gunakan untuk percobaan dalam saya belajar.</p>
