@@ -12,8 +12,6 @@ Terimakasih sudah berkunjung, akun github ini saya gunakan untuk percobaan dalam
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamust"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamust)
-
 
 <!---
 ilhamust/ilhamust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
