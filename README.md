@@ -10,7 +10,7 @@
 <p>Saya merupakan Pelajar di SMK Negeri 2 Klaten dengan Jurusan Sistem Informasi dan Aplikasi, yang sedang memulai untuk belajar terkait Coding.
 Terimakasih sudah berkunjung, akun github ini saya gunakan untuk percobaan dalam saya belajar.</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamust"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
