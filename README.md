@@ -10,6 +10,11 @@
 <p>Saya merupakan Pelajar di SMK Negeri 2 Klaten dengan Jurusan Sistem Informasi dan Aplikasi, yang sedang memulai untuk belajar terkait Coding.
 Terimakasih sudah berkunjung, akun github ini saya gunakan untuk percobaan dalam saya belajar.</p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamust"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamust)
+
+
 <!---
 ilhamust/ilhamust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
