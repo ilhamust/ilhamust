@@ -1,5 +1,5 @@
 <h1 align="center">Hi, there!!!<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
-<h2 align="center">My name is Ilham Mustaqim</h2>
+<h3 align="center">My name is Ilham Mustaqim</h3>
 
 <p align="center">
   <a href="https://github.com/ilhamust"><img src="https://github-readme-stats.vercel.app/api?username=ilhamust&show_icons=true&hide_border=true&theme=transparent" alt="edisonlee55's github stats"></a>
