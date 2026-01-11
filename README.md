@@ -6,7 +6,7 @@
 </p>
 
 
-<p>I am a Student at Universitas Nahdlatul Ulama Yogyakarta majoring in Information Systems and Applications, who is starting to study Coding.
+<p>I am a Student at Universitas Nahdlatul Ulama Yogyakarta majoring in Informatic, who is starting to study Coding.
 Thank you for visiting, I use this Github account for experiments in my study.</p>
 
 - 🌱 I’m currently learning **Web Development**
