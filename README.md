@@ -1,13 +1,8 @@
 <h1 align="center">Hi, there!!!<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 <h3 align="center">My name is Ilham Mustaqim</h3>
 
-<p align="center">
-  <a href="https://github.com/ilhamust"><img src="https://github-readme-stats.vercel.app/api?username=ilhamust&show_icons=true&hide_border=true&theme=transparent" alt="edisonlee55's github stats"></a>
-</p>
 
-
-<p>I am a Student at Universitas Nahdlatul Ulama Yogyakarta majoring in Informatic, who is starting to study Coding.
-Thank you for visiting, I use this Github account for experiments in my study.</p>
+I'm **Ilham Mustaqim**, a passionate developer from **Yogyakarta** and student at Universitas Nahdlatul Ulama Yogyakarta majoring in Informatic, who is starting to study Coding. I love crafting beautiful and efficient web applications.  Thank you for visiting, I use this Github account for experiments in my study. Let's connect and build something amazing together!.
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -16,8 +11,6 @@ Thank you for visiting, I use this Github account for experiments in my study.</
 - ⚡ Fun fact **I think I am funny**
 
 
-<a href="https://github.com/ilhamust"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamust&layout=compact&show_icons=true&hide_border=true&theme=transparent" alt="edisonlee55's github stats"></a>
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/_imtheprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_imtheprince" height="30" width="40" /></a>
@@ -25,8 +18,9 @@ Thank you for visiting, I use this Github account for experiments in my study.</
 <a href="https://instagram.com/_ilhammustaqim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ilhammustaqim" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,vue,react,laravel,flutter,fastapi,nodejs,git,mysql,linux,bootstrap&perline=8)](https://skillicons.dev)
 
 
 <!---
