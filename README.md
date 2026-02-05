@@ -1,6 +1,4 @@
-<h1 align="center">Hi, there!!!<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
-<h3 align="center">My name is Ilham Mustaqim</h3>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052cc,100:00aaff&height=150&text=Hi,%20I'm%20Ilham%20Mustaqim&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=Junior%20Fullstack%20Developer&descSize=30&descAlignY=85&section=header" />
 
 I'm **Ilham Mustaqim**, a passionate developer from **Yogyakarta** and student at Universitas Nahdlatul Ulama Yogyakarta majoring in Informatic, who is starting to study Coding. I love crafting beautiful and efficient web applications.  Thank you for visiting, I use this Github account for experiments in my study. Let's connect and build something amazing together!.
 
